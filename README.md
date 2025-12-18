@@ -543,6 +543,12 @@ yaxis:
 
 </details>
 
+## Improvements to cope with occasional zero price periods
+
+An additional 'Z' or zero band is included from v1.1.0 when the price is zero at any point in the day.
+
+![zero price band Z](/images/EDF_zero_band.png)
+
 ## JSONata
 
 Is a very different language, so if you are looking to either understand the code used here, or to use and modify, then you are probably going to have to learn a bit about JSONata.
